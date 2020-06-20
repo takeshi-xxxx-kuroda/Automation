@@ -1,0 +1,16 @@
+﻿table {
+  text-align: center;
+  width: 100%
+}
+
+table th {
+  padding: 5px;
+  color: #f3ecec;
+  background: #3a3939;
+}
+
+table td {
+  padding: 15px 80px;
+  white-space: nowrap;
+  background: #f1f1f0;
+}
